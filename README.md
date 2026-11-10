@@ -20,10 +20,10 @@
 4. Kill and reopen terminal
 5. Ensure you have installed NVM correctly:
    ```nvm -v```
-6. Install node version 16:
-   ```nvm install 16```
+6. Install node version 24:
+   ```nvm install 24```
 7. Set default node version to use it everywhere:
-   ```nvm alias default 16```
+   ```nvm alias default 24```
 8. Use the default version:
    ```nvm use```
 9. Kill and reopen terminal
@@ -31,6 +31,5 @@
    ```node -v```
 
 ## Setup Applications
-1. Microsoft Teams (get ready your account and let me know)
-2. Sublime Merge (or other Git platform of your preference)
-3. Visual Studio Code (or other code editing platform of your preference)
+1. Sublime Merge (or other Git platform of your preference)
+2. Visual Studio Code (or other code editing platform of your preference)
